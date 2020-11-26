@@ -1,5 +1,3 @@
-# Neoway - Desafio técnico
-
 # Criação do banco de dados
 CREATE DATABASE "NEOWAY"
     WITH 
